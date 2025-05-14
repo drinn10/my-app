@@ -1,16 +1,12 @@
-<script setup>
-import HelloWorld from './components/HelloWorld.vue'
-</script>
-
 <template>
   <div class="app">
     <h1>Welcome to My Vue App 🎉</h1>
-    <p>Let’s build something great.</p>
+    <p>This is a clean starting point.</p>
   </div>
 </template>
 
 <script setup>
-// This is where we’ll add logic or components later
+// No logic yet
 </script>
 
 <style scoped>
