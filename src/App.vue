@@ -6,7 +6,7 @@
 </template>
 
 <script setup>
-// No logic yet
+// No more HelloWorld import
 </script>
 
 <style scoped>
@@ -16,4 +16,5 @@
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 </style>
+
 
